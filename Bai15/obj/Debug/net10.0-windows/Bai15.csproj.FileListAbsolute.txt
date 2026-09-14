@@ -1,0 +1,17 @@
+D:\Bai15\bin\Debug\net10.0-windows\Bai15.exe
+D:\Bai15\bin\Debug\net10.0-windows\Bai15.deps.json
+D:\Bai15\bin\Debug\net10.0-windows\Bai15.runtimeconfig.json
+D:\Bai15\bin\Debug\net10.0-windows\Bai15.dll
+D:\Bai15\bin\Debug\net10.0-windows\Bai15.pdb
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.Form1.resources
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.csproj.GenerateResource.cache
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.AssemblyInfoInputs.cache
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.AssemblyInfo.cs
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.csproj.CoreCompileInputs.cache
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.dll
+D:\Bai15\obj\Debug\net10.0-windows\refint\Bai15.dll
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.pdb
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.genruntimeconfig.cache
+D:\Bai15\obj\Debug\net10.0-windows\ref\Bai15.dll
+D:\Bai15\obj\Debug\net10.0-windows\Bai15.Form2.resources
